@@ -1,0 +1,138 @@
+
+1. Tell me about yourself and project you have done?
+
+Ans.
+	
+	Hii! Greeting All  like (GM,GAfter,G evn)
+
+	MY name is Tushar Sadashiv Malkar.
+	I am from Aurangabad district. 
+	I have completed my Post graduation in MCA from Dr.Babashaheb Ambedkar Marathawada University Aurangabad. 
+	after that i got a chance to work as python developer at Tech Mahindra 
+
+	// about Tech Mahindra //
+
+	during my 2.6 years of experince in Tech M I have work on different technology & tools like Python
+	Django Rest Framework,git,Machine Learning,Data Science ,Docker & database point of
+	view i have work on MS SQL-Server database & along with some part of time i have work on ETL-Tool. 
+	and also & i have good hands on knowledge of NoSQL database like Mongodb apart from that 
+	in my project i have work on some AWS services.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ About Aditya Birla Finance Capital (Mumbai)
+
+--after that i joined Aditya birla capital as software engineer basically there was i have worked on finntech project which is bank reconsiliation system
+  that project vertical belong to Loan Managment System its all over python automation project in that project i have worked on python ,pandas and numpy  
+  liabrary as well some kind of basic work on automation tool with selenium and as database i was worked on microsoft sql server database and ETL tool also. 
+
+--what you have work on aditya birla capital 
+basically i have work on the LMS product which loan managment service in that project i was work on as support side as well as work Development side using python,pandas lib in that daily basis of any bank statment file which .xlsx file gives us any error like header missing ,data format missing column name chanegs, so I have work on that like we have doing dynamic programing and resolve that issue , also daily basis check the log file if any user has to diffculty to download statament from bank server so we resolve that error & also i have been basically work on dubugging also,check daily basis log error,
+
+
+ As well as in there last month i got the chance to work on the identification of credit through python project in that project i was got BRD which is (business requirement documentation) from client 
+ 	then i was started work on that project along with abfl payment recipt user team which is already doing there work on manually daily basis.
+	so basically that project motive is to identify bank recon file open credit entry through python automation script -the entire requirement is automation using python ,pandas ,selenium,Machine Learning automation with RPA using the we can find open credit entry which is present in bank recon file ( bank recon file is basically automation file in this file all credit and debit entry are knock off in LMS book side (knock off means data sanity check,if bank statment and LMS side credit/debit entry value are matched that means this is reconsiled entry then that entry goes in BRS output file
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+	coming to my roles and responsiblity
+	
+	project 1 - Optical Omni switch series synchronization 
+
+	My project is Optical Omni switch series synchronization which is vertical belong to Telecom OSS Provisoing & activation 
+	the project client from group televisa, mexico
+	technology we used : Python , Django REST framework ,Oracle ,GIT , Rest – Web Service ,Pandas, PySpark, ETL, 
+	
+
+	project function- 
+ 
+	the project function is customer goes to the service provider portal then add to the service 
+	then order managment system verify that process and customer request
+	then service order send to inventory system then its goes to the allocated particular resources 
+	then activation system send to activation data to order managment system 
+	then finally it goes to the billing system in that order management system notify billing system to store new 
+	purchase activity and then that service finally is activated that is the overall function of that project.
+	 
+Q.	role and responsiblity.  
+
+   1] in that my project as python developer i was work on CRM module which handle customer service Module ,request service order model as as 
+      inventory system model
+      and such billing inquiries , service upgrades plan & account cancellation  like that in that project we have face many 
+      challenges, issue like tracking log issue,resolve customer service request like also as per requirement work on dynamic programing.
+  
+  2] and as a Django part i have work on model.py file to create customer models ,and create some rest api ,forms as well as i have work on jango
+     ORM queries to fetch and retrive object from the database ,creating object ,deleting object like that operation i have done 
+     over there
+   
+   3] i collabrated  with froend end developer for server-side logic
+   
+    
+   4] as well as  my involement in LLD low level desinging part of application to undersatnd and analysis customer 
+      requriment and according to that work on module.	 
+	 
+   5] creating new resources on server using post method
+
+   6] my involement in client interaction.
+	
+   --------------------------------------------------------------------------------------------------------------------------------------------------
+   2 project - ( B2B Integration System )
+   
+   B2B Integration System
+   vertical -- E commerce payment
+   client -- Home depot USA
+   Technology used : Python,PySpark, Django,SQL,Post-man,Docker,ETL,ML
+   
+   project function-
+   project function: is transfer money from buyer acc to marchant acc -- so for that project having 3 module
+   which is 1] buyer acc module, 2] payment gatway module, 3]merchant account module -
+   
+   
+	2 ] payment module:- 
+	then in that The back-end component is responsible for managing transaction records and providing an API for 
+	integration with the merchant account module. 
+	
+ 
+    in this project my role & responsiblity is 
+
+	role & respo: 
+
+	1] in model.py file i have create one form in which will store data in DB and checked 
+	    the payment are successful or not / & in particular day how much payment is done these kind of 
+            all process we checked & then again store data it in SQL server DB
+ 
+   2]  as well as in that project some part of time i got chance to work with data Scientist team on EDA Part & in that we perform EDA
+  	 on payment module in that we collect all data from user site or app and perform data cleaning and data preprocessing using 
+	 python lib like pandas ,numpy and also visulaize that data using matplotlib ,seaborn lib 		
+ 	
+	thats all about me thank you.
+ 
+ --------------------------------------------------------------------------------------------------------------------------------------------------
+project 3
+
+Project - Bank Reconsiliation System
+vertcial -Loan Managment system
+client -  Aditya Birla capital Mumbai
+team size 4 
+joined  23 june to 10 november 2023
+
+Project funtion -
+
+- the project was build in RPA/ML automation basically ABFl is non banking finanical service(NBFC) - internal bank server api download bank statement    through api like 
+hdfc bank,kotak bank,indusind bank data as well as digital patner like phone pay,bharat pay banking finanical data and all user keep it that xlsx file bank statement in one input folder and using UI through run that script in T-1 day and date wise folder when script run machine will fetch datewise bank statment and match the 
+credit and debit entry in LMS side which loan managmement system all credit entry in LMS side are knocked off easily and the lastly value goes in 0 format.
+ 
+
+Role & Responsibility - 
+
+1] to check the log file on daily basis
+2] to MAP the bank GL in system as per client requirement.
+3] perform sql query opeartion for fetching data as per user/client requirement.
+4] work on python / pandas lib for missing data format like bank data type casting using pandas 
+5] use the UAT server for testing dyanamic progarming for changing file or data format like .xlsx to xls
+5] as per the client requirement change the file header format
+6] to check daily basis python script for running automation bank statment file in T-1 date format
+7] creating sql index / views as per the fast data optimization and retrival requirement.
+8] add new bank GL and mapping in databases the new bank statment are properly knock off in python script.
+
+
+																																																					
