@@ -33,4 +33,7 @@
 11] new branch creation  (git branch branch_name)
 
 
-12] 
+12] how to merge existing branch to new branch
+
+    -git checkout main
+    -git merge feature_db(branch name)
