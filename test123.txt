@@ -26,6 +26,7 @@
 
 9] git checkout main  (switch to another branch)
 
+
 10] git merge <branch name>
 
 
@@ -36,4 +37,8 @@
 
     -git checkout main
     -git merge feature_db(branch name)
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature_db
 
