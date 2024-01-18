@@ -26,7 +26,11 @@
 
 9] git checkout main  (switch to another branch)
 
+
 10] git merge <branch name>
 
-11] git merge <branch name>
 
+11] new branch creation  (git branch branch_name)
+
+
+12] 
