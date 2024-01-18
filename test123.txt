@@ -1,5 +1,22 @@
-hello 
-123
-456
-789
-bye bye
+
+1] git intialization 
+  (git init)
+
+2] git config 
+  (git config --global user.name "tusharmalkar136")
+
+3] git mail config 
+   (git config --global user.email "")
+
+4] git clone <repo url>
+
+5] from working dir to statging area 
+   (git add <file name> / git add . / git add filename1,filename2,..)
+
+6] from staging area to local repo 
+    (git commit -m "message" )
+
+7] from local repo to remote repo 
+  (git push origin head)
+
+  git status
